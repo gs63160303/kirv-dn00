@@ -1,0 +1,1 @@
+docker build -t gstefanic/kirv-dn00 . && docker run gstefanic/kirv-dn00
